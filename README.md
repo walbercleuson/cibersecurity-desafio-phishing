@@ -1,5 +1,4 @@
-# Phishing para captura de senhas do Locaweb
-
+# Phishing para captura de senhas do Instagram
 ### Ferramentas
 
 - Kali Linux
@@ -7,8 +6,15 @@
 
 ### Configurando o Phishing no Kali Linux
 
-- Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
+1º Abra o terminal, e digite: sudo su
+###
+![Alt text](./IMG/1.png "Optional title")
+
+2º Digite: setoolkit, e na tela seguinte confirme com: y
+###
+![Alt text](./IMG/2.png "Optional title")
+
+: ``` setoolkit ```
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
